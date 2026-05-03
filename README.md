@@ -3,13 +3,13 @@
 
 My name is Camila, 
 
-I'm a CompSci PhD Student from Colombia and also a Physics Engineer! 👩🏻‍💻​. And sometimes a Data Scientist at i-APS 🌍, where I worked for different humanitarian organizations like WFP, UNICEF and JSI by analyzing data from past interventions in african and asian countries.​
+I'm a CompSci PhD Student from Colombia and also a Physics Engineer! 👩🏻‍💻​. And sometimes a Data Scientist at i-APS 🌍, where I worked for different humanitarian organizations like WFP, UNICEF, and JSI by analyzing data from past interventions in African and Asian countries.​
 
-Right now living in Mexico while I'm studying at Tecnológico de Monterrey, I'm part of the [CV-inside Lab](linkedin.com/in/cv-inside-lab-3145b2316) research group where I'm currently studying skills assessment on cataract surgery using Computer Vision and implementation of AI. For now, working on review papers for a complete comparison of technologies applied to diferent surgical interventions 📑​.
+Right now, living in Mexico while I'm studying at Tecnológico de Monterrey, I'm part of the [CV-inside Lab](linkedin.com/in/cv-inside-lab-3145b2316) research group, where I'm currently studying skills assessment on cataract surgery using Computer Vision and implementation of AI. For now, working on review papers for a complete comparison of technologies applied to different surgical interventions 📑​.
 
-My areas of interest are medical imaging, early diagnosis of diseases, neurological studies and minimal invasive procedures, all involving the correct use of AI tools (Deep Learning mostly) 🩻.
+My areas of interest are medical imaging, early diagnosis of diseases, neurological studies, and minimal invasive procedures, all involving the correct use of AI tools (Deep Learning mostly) 🩻.
 
-Want to show my progress on Github from different courses, study books and casual code sessions to help other people that want to grow 🌱​. Also, my college projects for anyone interested! 
+Want to show my progress on GitHub from different courses, study books, and casual code sessions to help other people who want to grow 🌱​. Also, my college projects for anyone interested! 
 
 <h3 align="left">Connect with me on LinkedIn! 🪼​</h3>
 <p align="left">
